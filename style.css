@@ -1,0 +1,285 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+span, a {
+    display: inline-block;
+}
+img {
+    max-width: 100%;
+}
+.all{
+    font-family: system-ui;
+    width: 800px;
+    margin:30px auto;
+    
+}
+.top1{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.link{
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    border-right: 1px solid black;
+    padding: 15px 20px;
+}
+.customer{
+    border-right: none;
+    /* border-left: 1px solid black; */
+}
+.yes{
+    margin-left: 20px;
+    padding: 0;
+    width:30% ;
+    font-size: 35px;
+    font-weight: bold;
+}
+.biglink{
+width:40% ;
+}
+.customer{
+    width:30% ;
+    text-align: right;
+    
+}
+.divfirst{
+    padding: 200px 50px;
+    /* height: 300px; */
+    background-image: url(Rectangle.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: right;
+    
+    
+}
+.title1{
+    font-size: 40px;
+}
+.text1{
+    text-transform: uppercase;
+    font-size: 11px;
+    margin-right: 10px;
+}
+.div{
+    display: flex;
+}
+.shop{
+display: flex;
+margin-top: 50px;
+
+
+}
+.photo1{
+    background-image: url(Rectangle\ \(1\).png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    width: 50%;
+    text-align: right;
+    
+    
+}
+.photo2{
+    background-image: url(Rectangle\ \(2\).png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    width: 50%;
+    text-align: right;
+    
+}
+.men, .women{
+margin-top: 293px;
+    border: none;
+    font-size: 10px;
+background-color: lightpink;
+    text-transform: uppercase;
+    padding: 20px 30px;
+    
+}
+.secondtitle, .thirdtitle, .fourthtitle{
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom: 2px solid grey;
+    
+}
+.title2, .title3, .title4{
+font-size: 35px;
+margin-left: 30px;
+}
+.text2, .text3, .text4{
+font-size: 10px;
+text-transform: uppercase;
+margin-right: 30px;
+}
+.frame{
+    padding: 70px 0px;
+}
+.boxsecond{
+    display: flex;
+    height: 307px;
+}
+.photowomen{
+width: 40%;
+}
+.texts{
+width: 60%;
+background-color:rgb(167, 197, 255);
+padding-left: 30px;
+padding-top: 130px;
+
+}
+.p2{
+    text-transform: uppercase;
+    font-size: 13px;
+}
+.mitchel{
+    font-size: 40px;
+}
+.p3{
+    font-size: 13px;
+}
+
+.pink{
+    background-color: lightpink;
+    border: none;
+    padding: 25px 30px;
+   
+}
+.btn{
+   padding-top: 25px;
+}
+.boxthird{
+    display: flex;
+    height: 350px;
+}
+.picture1{
+    background-image: url(Rectangle\ \(4\).png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    width: 50%;
+    text-align: right;
+}
+.picture2{
+    background-image: url(Rectangle\ \(5\).png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    width: 50%;
+}
+.forsight{
+    margin-top: 293px;
+    border: none;
+    font-size: 10px;
+    background-color: lightpink;
+    text-transform: uppercase;
+    padding: 20px 30px;
+}
+.boxfourth{
+    width: 800px;
+    padding: 20px 0;
+    color: lightpink;
+}
+.krewe1{
+    font-size: 94px;
+}
+.krewe2{
+    font-size: 85px ;
+}
+.boxfourth2{
+    display: flex;
+    padding: 30px;
+}
+.title5{
+width: 50%;
+padding: 30px;
+}
+.who{
+    font-size: 35px;
+}
+.part{
+    font-size: 13px;
+    margin-top: 20px;
+    line-height: 1.6;
+}
+.picture3{
+width: 50%;
+padding: 40px;
+}
+.fifth{
+    background-color: rgb(147, 178, 236);
+    
+}
+.fifthtitle{
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+    
+}
+.title6{
+font-size: 40px;
+margin-left: 60px;
+
+}
+.text6{
+font-size: 10px;
+font-weight: bold;
+margin-right: 60px;
+
+}
+.big5{
+    font-size: 13px;
+    display: flex;
+    justify-content: space-between;
+    line-height: 1.8;
+    margin-bottom: 10px;
+    
+    
+}
+.span{
+    font-weight: bold;
+}
+.Margarita, .icon{
+    
+    font-size: 13px;
+    color: black;
+    text-decoration: none;
+}
+.flexbig{
+    display: flex;
+}
+.flex1{
+width: 500px;
+padding: 20px;
+}
+.flex2{
+padding: 30px;
+width: 250px;
+border-left: 2px solid black;
+font-size: 13px;
+}
+.line{
+    height:1px;
+    margin: 20px 0; 
+    background-color: black;
+}
+
+.divv{
+    margin-top: 20px;
+    color: black;
+    line-height: 1.8;
+    
+}
+.icon2, .yesforeyes{
+    color: black;
+    text-decoration: none;
+}
+.texticon{
+    margin-right: 20px;
+}
